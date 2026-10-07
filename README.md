@@ -1,6 +1,6 @@
 # CTS-1000
 ### George Shapka
-My nage is George Shapka and I am a Computer Science Major at the University of Guelph. \
+My name is George Shapka and I am a Computer Science Major at the University of Guelph. \
 This is my portfolio for the class CTS*1000.
 
 # Table of Contents
