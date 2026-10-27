@@ -14,8 +14,6 @@ In this assignment I took a vizualization relating to a keyword discussed in cla
 [Visualization showing the global population split into countries by David McCandless.](https://informationisbeautiful.net/visualizations/world-population/)
 
 <br/>
-<br/>
-<br/>
 
 ## [Infographic Assignment](Infographic%20Assignment.pdf)
 In this assignment I created an infographic demonstrating multiple meaning of the word "Code" through the use of a pie chart. 
