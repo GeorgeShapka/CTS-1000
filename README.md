@@ -13,7 +13,11 @@ In this assignment I took a vizualization relating to a keyword discussed in cla
 <img width="400" height="400" alt="VisualizationImage" src="https://github.com/user-attachments/assets/23426391-4880-438b-8131-fd1bc31d005f" />\
 [Visualization showing the global population split into countries by David McCandless.](https://informationisbeautiful.net/visualizations/world-population/)
 
+<br/>
+<br/>
+<br/>
 
 ## [Infographic Assignment](Infograhic%20Assignment.pdf)
 In this assignment I created an infographic demonstrating multiple meaning of the word "Code" through the use of a pie chart. 
+<br/>
 <img width="400" height="557" alt="InfographicImage" src="https://github.com/user-attachments/assets/fd3a0897-870e-41b1-9451-21b00ab63f23" />
