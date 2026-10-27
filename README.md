@@ -17,7 +17,7 @@ In this assignment I took a vizualization relating to a keyword discussed in cla
 <br/>
 <br/>
 
-## [Infographic Assignment](Infograhic%20Assignment.pdf)
+## [Infographic Assignment](Infographic%20Assignment.pdf)
 In this assignment I created an infographic demonstrating multiple meaning of the word "Code" through the use of a pie chart. 
 <br/>
 <img width="400" height="557" alt="InfographicImage" src="https://github.com/user-attachments/assets/fd3a0897-870e-41b1-9451-21b00ab63f23" />
